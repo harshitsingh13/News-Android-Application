@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    <string name="tv1"></string>
+    <string name="tv2"></string>
+    <string name="tv3"></string>
+    <string name="tv4"></string>
+    <string name="tv5"></string>
+    <string name="tv6"></string>
+</resources>
